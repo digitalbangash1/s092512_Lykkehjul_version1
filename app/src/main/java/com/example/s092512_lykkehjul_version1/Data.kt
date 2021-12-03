@@ -1,4 +1,4 @@
-package com.example.s092512_lykkehjul
+package com.example.s092512_lykkehjul_version1
 
 
 class Data {
@@ -11,7 +11,8 @@ class Data {
            Point("200"),
            Point("Bankrupt"),
            Point("500"),
-           Point("Loss Life"))
+           Point("Loss Life")
+       )
     }
 
     fun loadRandomWords():List<String>{

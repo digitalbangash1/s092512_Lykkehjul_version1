@@ -1,4 +1,4 @@
-package com.example.s092512_lykkehjul
+package com.example.s092512_lykkehjul_version1
 
 import android.animation.Animator
 import androidx.appcompat.app.AppCompatActivity
@@ -9,6 +9,7 @@ import android.view.animation.DecelerateInterpolator
 import android.widget.*
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.s092512_lykkehjul.R
 import kotlin.random.Random
 
 

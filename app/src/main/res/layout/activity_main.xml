@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#009688"
 
-    tools:context=".MainActivity">
+    tools:context="com.example.s092512_lykkehjul_version1.MainActivity">
 
 
     <TextView

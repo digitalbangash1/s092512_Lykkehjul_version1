@@ -1,4 +1,4 @@
-package com.example.s092512_lykkehjul
+package com.example.s092512_lykkehjul_version1
 
 class Point(s: String) {
 
